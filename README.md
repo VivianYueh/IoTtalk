@@ -38,4 +38,5 @@ wheel              0.44.0
 
 ## 六、報告(成功版本)
 [google文件](https://docs.google.com/document/d/1-1_BiDmKK8tppAJLjib5xvtyZiqjc7SpORqcvTc5KGU/edit?usp=sharing)
+[實作影片](https://drive.google.com/file/d/1x-uzpMYs7YXp1XTtHpyfDY7HKmoKWFYz/view?usp=sharing)
 
