@@ -11,13 +11,21 @@
 三、環境
 
 python = 3.9.21
+
 numpy              2.0.2
+
 paho-mqtt          2.1.0
+
 pandas             2.2.3
+
 requests           2.32.3
+
 scikit-learn       1.6.0
+
 scipy              1.13.1
+
 urllib3            2.3.0
+
 wheel              0.44.0
 
 四、報告(成功版本)
